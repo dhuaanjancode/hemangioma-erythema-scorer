@@ -37,7 +37,7 @@ sensitive to haemangioma erythema than simple red-channel measurement alone
 
 ## Screenshots
 
-![Tool screenshot](demo).png)
+![Tool screenshot](demo.png)
 
 *The tool showing a baseline photograph with ROI selection and real-time
 erythema metrics.*
