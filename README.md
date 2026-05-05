@@ -220,6 +220,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-[Your name]  
-[Institution]  
-[Email address]
+[Anjan Kumar Dhua]  
+[All India Institute of Medical Science, Delhi]  
+[dhuaanjan@gmail.com]
