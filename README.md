@@ -94,13 +94,13 @@ python hemangioma_scorer.py
 
 ```
 photos/
-├── 107768186_Hala_Khalil/
+├── Patient A/
 │   ├── baseline/
-│   │   └── 20240904_new.jpg
+│   │   └── PatientA_baseline.jpg
 │   └── followups/
-│       ├── 20250129_followup.jpg
-│       └── 20250716_followup.jpg
-├── 107026504_Samiya/
+│       ├── PatientA_followup_1.jpg
+│       └── PatientA_followup_2.jpg
+├── Patient B/
 │   ├── baseline/
 │   └── followups/
 └── ...
