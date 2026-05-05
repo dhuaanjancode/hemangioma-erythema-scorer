@@ -94,13 +94,13 @@ python hemangioma_scorer.py
 
 ```
 photos/
-├── Patient A/
+├── UHID_Patient A/
 │   ├── baseline/
-│   │   └── PatientA_baseline.jpg
+│   │   └── UHID_PatientA_baseline.jpg
 │   └── followups/
-│       ├── PatientA_followup_1.jpg
-│       └── PatientA_followup_2.jpg
-├── Patient B/
+│       ├── UHID_PatientA_followup_1.jpg
+│       └── UHID_PatientA_followup_2.jpg
+├── UHID_Patient B/
 │   ├── baseline/
 │   └── followups/
 └── ...
