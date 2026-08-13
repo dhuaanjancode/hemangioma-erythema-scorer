@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00383--XXXX-orange.svg)](https://doi.org/TO_BE_UPDATED)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00383--XXXX-orange.svg)](https://doi.org/10.5281/zenodo.21912543)
 
 A Python-based semi-automated tool for objective erythema quantification from serial
 clinical photographs of infantile haemangioma (IH). Developed and validated at the
