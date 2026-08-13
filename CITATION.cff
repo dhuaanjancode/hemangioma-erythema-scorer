@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "Semi-Automated Erythema Quantification Tool for Infantile Haemangioma Monitoring"
+abstract: >
+  A Python-based semi-automated tool for quantifying erythema from serial clinical
+  photographs of infantile haemangioma using the erythema index (EI = [R-G]/[R+G+B])
+  and additional colorimetric metrics. Developed and validated at the Department of
+  Paediatric Surgery, All India Institute of Medical Sciences, New Delhi, India,
+  in the context of a prospective photographic registry of infants receiving propranolol.
+version: "1.0.0"
+date-released: "2026-08-13"
+license: MIT
+repository-code: "https://github.com/dhuaanjancode/hemangioma-erythema-scorer"
+url: "https://github.com/dhuaanjancode/hemangioma-erythema-scorer"
+type: software
+keywords:
+  - infantile haemangioma
+  - erythema index
+  - colorimetry
+  - propranolol
+  - digital image analysis
+  - paediatric surgery
+  - Python
+  - OpenCV
+
+authors:
+  - family-names: "Dhua"
+    given-names: "Anjan Kumar"
+    orcid: "https://orcid.org/0000-0003-2050-7872"
+    affiliation: "Department of Paediatric Surgery, All India Institute of Medical Sciences, New Delhi, India"
+    email: "anjan.dhua@aiims.edu"
+
+  - family-names: "Jain"
+    given-names: "Vishesh"
+    orcid: "https://orcid.org/0000-0002-9273-097X"
+    affiliation: "Department of Paediatric Surgery, All India Institute of Medical Sciences, New Delhi, India"
+
+  - family-names: "Goel"
+    given-names: "Prabudh"
+    orcid: "https://orcid.org/0000-0001-6179-1625"
+    affiliation: "Department of Paediatric Surgery, All India Institute of Medical Sciences, New Delhi, India"
+
+  - family-names: "Yadav"
+    given-names: "Devendra Kumar"
+    orcid: "https://orcid.org/0000-0003-3158-3322"
+    affiliation: "Department of Paediatric Surgery, All India Institute of Medical Sciences, New Delhi, India"
+
+preferred-citation:
+  type: article
+  title: "Semi-Automated Erythema Quantification in Infantile Haemangioma Receiving Propranolol: A Pilot Feasibility Study"
+  authors:
+    - family-names: "Kumar"
+      given-names: "Bitesh"
+      orcid: "https://orcid.org/0000-0002-4255-4330"
+    - family-names: "Jain"
+      given-names: "Vishesh"
+      orcid: "https://orcid.org/0000-0002-9273-097X"
+    - family-names: "Goel"
+      given-names: "Prabudh"
+      orcid: "https://orcid.org/0000-0001-6179-1625"
+    - family-names: "Yadav"
+      given-names: "Devendra Kumar"
+      orcid: "https://orcid.org/0000-0003-3158-3322"
+    - family-names: "Agarwala"
+      given-names: "Sandeep"
+    - family-names: "Dhua"
+      given-names: "Anjan Kumar"
+      orcid: "https://orcid.org/0000-0003-2050-7872"
+  journal: "Pediatric Surgery International"
+  publisher:
+    name: "Springer Nature"
+  year: 2026
+  doi: "TO BE UPDATED ON PUBLICATION"
+  issn: "0179-0358"
